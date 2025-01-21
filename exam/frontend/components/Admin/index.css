@@ -1,0 +1,22 @@
+header{
+    background-color: #67ab32;
+}
+.header{
+    max-width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.admin-nav{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.admin-a{
+    font-size: 1.3rem;
+    color: black;
+}
